@@ -1,0 +1,5 @@
+# a: list[int] = [1, 2.0]
+b:list[int] = [3.14]
+# c: list[int] = [1, True]
+# d:list[float] = [1, 2]
+# e:list[bool] = [1.]
